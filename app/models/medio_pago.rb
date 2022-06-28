@@ -1,0 +1,2 @@
+class MedioPago < ApplicationRecord
+end
